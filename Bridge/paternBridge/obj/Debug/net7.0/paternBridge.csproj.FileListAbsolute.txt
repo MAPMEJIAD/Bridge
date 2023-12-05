@@ -1,0 +1,14 @@
+D:\АлтГУ\Сессия\АПС\Lab5\paternBridge-master\paternBridge\bin\Debug\net7.0\paternBridge.exe
+D:\АлтГУ\Сессия\АПС\Lab5\paternBridge-master\paternBridge\bin\Debug\net7.0\paternBridge.deps.json
+D:\АлтГУ\Сессия\АПС\Lab5\paternBridge-master\paternBridge\bin\Debug\net7.0\paternBridge.runtimeconfig.json
+D:\АлтГУ\Сессия\АПС\Lab5\paternBridge-master\paternBridge\bin\Debug\net7.0\paternBridge.dll
+D:\АлтГУ\Сессия\АПС\Lab5\paternBridge-master\paternBridge\bin\Debug\net7.0\paternBridge.pdb
+D:\АлтГУ\Сессия\АПС\Lab5\paternBridge-master\paternBridge\obj\Debug\net7.0\paternBridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\АлтГУ\Сессия\АПС\Lab5\paternBridge-master\paternBridge\obj\Debug\net7.0\paternBridge.AssemblyInfoInputs.cache
+D:\АлтГУ\Сессия\АПС\Lab5\paternBridge-master\paternBridge\obj\Debug\net7.0\paternBridge.AssemblyInfo.cs
+D:\АлтГУ\Сессия\АПС\Lab5\paternBridge-master\paternBridge\obj\Debug\net7.0\paternBridge.csproj.CoreCompileInputs.cache
+D:\АлтГУ\Сессия\АПС\Lab5\paternBridge-master\paternBridge\obj\Debug\net7.0\paternBridge.dll
+D:\АлтГУ\Сессия\АПС\Lab5\paternBridge-master\paternBridge\obj\Debug\net7.0\refint\paternBridge.dll
+D:\АлтГУ\Сессия\АПС\Lab5\paternBridge-master\paternBridge\obj\Debug\net7.0\paternBridge.pdb
+D:\АлтГУ\Сессия\АПС\Lab5\paternBridge-master\paternBridge\obj\Debug\net7.0\paternBridge.genruntimeconfig.cache
+D:\АлтГУ\Сессия\АПС\Lab5\paternBridge-master\paternBridge\obj\Debug\net7.0\ref\paternBridge.dll
